@@ -12,7 +12,7 @@ public class AirTransport extends Transport{
     }
 
     public void maximumHeight(){
-        System.out.println("My Maximum Height = 3000km");
+        System.out.println("My Maximum Height = 3000km!");
     }
 
     public void setEnginePower(double enginePower) {
